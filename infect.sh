@@ -1,5 +1,6 @@
-# A tool by nitro from www.noob-hackers.com
-# Be a unique person not copy cat
+# A tool by Deux
+
+# Hey People Have A Great Time Hacking
 # Colours
 #-----------------
 red='\033[1;31m'
@@ -32,7 +33,7 @@ X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                         noobhackers
+                          d e u x
 '|lolcat
 echo " " 
 
