@@ -79,35 +79,7 @@ __Exit__ :
 ## ?? ***Screenshot*** :
 <img src="https://user-images.githubusercontent.com/49580304/70858686-834b6580-1f2c-11ea-9ea6-0839251db161.jpg" width="80%"></img>
 
-## ?? ***Full video tutorial***:
-[![m-wiz metasploit-franework tool](https://img.youtube.com/vi/8RXVODXMsa8/0.jpg)](https://youtu.be/8RXVODXMsa8)
-## ?? ***Check this***
 
-### Subscribe our channel on youtube:
-https://www.youtube.com/noobhackers
-
-### Chekout our webite:
-https://www.noob-hackers.com
-
-## ?? ***Join***
-
-### Facebook group: 
-https://www.facebook.com/groups/1936478173310085
-
-### Telegram channel:
-https://t.me/noobhack
-
-### Facebook page:
-https://www.facebook.com/Noob-Hackers-250938565573643
-
-### Instagram: 
-https://www.instagram.com/noobhackers352
-
-### Pinterest:
-https://in.pinterest.com/noobhackers
-
-### My GitHub ID link:
-https://www.github.com/noob-hackers
 
 ### ?? Warning
 
